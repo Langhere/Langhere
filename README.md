@@ -5,8 +5,8 @@
   
 | Platform | Link |
 | --- | --- |
-| Medium | https://medium.com/@ganugrah233 |
-| LinkedIn | https://www.linkedin.com/in/gilang-ramadhan-00b356251 |
+| Medium | [Gilang Ramadhan](https://medium.com/@ganugrah233) |
+| LinkedIn | [Gilang Ramadhan](https://www.linkedin.com/in/gilang-ramadhan-00b356251) |
 
 
 TankYou
