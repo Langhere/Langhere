@@ -34,8 +34,11 @@ Skills
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://python.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![VSCode](https://img.shields.io/badge/C/C++-0078D4?style=for-the-badge&logo=C&logoColor=white)](https://cplusplus.com/)
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![binary](https://img.shields.io/badge/Binary%20Exploitation-e0d9a4?style=for-the-badge&logo=ctf%20Color=white)](https://ctf101.org/binary-exploitation/overview/)
+[![Bug](https://img.shields.io/badge/Bug%20Hunter-69192d?style=for-the-badge&logo=hacking&logoColor=white)](https://bughunters.google.com/)
+[![CTF](https://img.shields.io/badge/CTF_PLAYER-243363?style=for-the-badge&logo=CTF&logoColor=white)](https://ctf101.org/)
   
 </div>
 
