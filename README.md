@@ -13,19 +13,22 @@
 <div align="center">
 
 
-# HI PWNPEOPE 🚩
+# 🚩 HI PWNPEOPE 
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-ramadhan-00b356251/)
 [![Medium Badge](https://img.shields.io/badge/Medium-579668?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ganugrah233)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilangramadhan_rmd/)
 </div>
 
-# Statistic 🗿
+# ➗ Statistic 
 ![Lanz Github Statistic](https://github-readme-stats.vercel.app/api?username=Langhere&show_icons=true&theme=cyberfunk)
 
 ![most language](https://github-readme-stats.vercel.app/api/top-langs/?username=Langhere&layout=compact)
 
-Skills
+# 👁️‍🗨️ View
+[![](https://visitcount.itsvg.in/api?id=Langhere&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🛹 Skills
 ==
 <div align="center">  
   
