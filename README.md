@@ -2,13 +2,20 @@
   
 ![banner](https://github.com/Langhere/Langhere/assets/142018203/798c5202-2f7f-4123-91de-ab2a0869cb15)
 
-  
 
-- 👋 Hi, I’m Lanz
-- 👀 I’m interested in Cyber Security, Programming, And all about Computer Science like network.
-- 🌱 I’m currently learning Pwn/Binary exploitation, cuz i like how the system is running in Linux,
-   Windows. I like this, cuz anaylze the C code (not original code, but you need to decompile first so basically it's a assembly language) need a try hard, but i like it
+ <div> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=a83232&left=true&vCenter=true&width=940&lines=Hey%2C+I'm+Lanz+i+Will+Hack+The+World" alt="" width="90%" align="center"/> </div>
+
+
+<div align="center" color="red">
   
+ ```
+Hi, I’m Lanz
+I’m interested in Cyber Security, Programming, And all about Computer Science like network.
+I’m currently learning Pwn/Binary exploitation, cuz i like how the system is running in Linux,
+Windows. I like this, cuz anaylze the C code (not original code, but you need to decompile first so
+basically it's a assembly language) need a try hard, but i like it
+```  
+</div>
 
 <div align="center">
 
