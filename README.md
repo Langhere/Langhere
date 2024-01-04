@@ -28,9 +28,9 @@ basically it's a assembly language) need a try hard, but i like it
 </div>
 
 # ➗ Statistic 
-![Lanz Github Statistic](https://github-readme-stats.vercel.app/api?username=Langhere&show_icons=true&theme=cyberfunk)
+![Lanz Github Statistic](https://github-readme-stats.vercel.app/api?username=Langhere&show_icons=true&theme=tokyonight)
 
-![most language](https://github-readme-stats.vercel.app/api/top-langs/?username=Langhere&layout=compact)
+![most language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Langhere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 👁️‍🗨️ View
 [![](https://visitcount.itsvg.in/api?id=Langhere&icon=0&color=0)](https://visitcount.itsvg.in)
