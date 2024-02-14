@@ -35,6 +35,10 @@ basically it's a assembly language) need a try hard, but i like it
 # 👁️‍🗨️ View
 [![](https://visitcount.itsvg.in/api?id=Langhere&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 👟 Platform
+<img src="https://tryhackme-badges.s3.amazonaws.com/m1kasha.png" alt="TryHackMe">
+
+
 🛹 Skills
 ==
 <div align="center">  
