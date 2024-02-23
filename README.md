@@ -3,7 +3,7 @@
 ![banner](https://github.com/Langhere/Langhere/assets/142018203/798c5202-2f7f-4123-91de-ab2a0869cb15)
 
 
- <div> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=a83232&left=true&vCenter=true&width=940&lines=Hey%2C+I'm+Lanz+i+Will+Hack+The+World" alt="" width="90%" align="center"/> </div>
+ <div> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=a83232&left=true&vCenter=true&width=940&lines=Hey%2C+I'm+Lanz+i+Will+Hack+The+World" alt="" width="90%" align-tems="center"/> </div>
 
 
 <div align="center" color="red">
@@ -38,6 +38,8 @@ basically it's a assembly language) need a try hard, but i like it
 # 👟 Platform
 <img src="https://tryhackme-badges.s3.amazonaws.com/m1kasha.png" alt="TryHackMe">
 
+<img src="http://www.hackthebox.eu/badge/image/1373302" alt="Hack The Box">
+
 
 🛹 Skills
 ==
@@ -45,6 +47,8 @@ basically it's a assembly language) need a try hard, but i like it
   
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-B284BE?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![LARAVEL](https://img.shields.io/badge/LARAVEL-EF4444?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://python.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
