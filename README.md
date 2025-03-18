@@ -1,1 +1,1 @@
-just people enjoy Penetration Testing, Exploit Development, Active Directory
+Just people enjoy Penetration Testing, Exploit Development, CTF 
